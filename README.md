@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Danypooh
 - 👀 I’m interested in making IT an integral part of my life
 - 🌱 I’m currently learning in the Odin Project
-- 💞️ I’m looking to collaborate on pretty much whatever helps me learn
-- 📫 How to reach me, Discord: trust#0514
+- 💞️ I’m looking to collaborate on a web developers team
+- 📫 How to reach me, email: delatorrechapell@gmail.com
 
 <!---
 Danypooh/Danypooh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
