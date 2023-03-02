@@ -1,5 +1,5 @@
-#Daniel Chapell here!
-###Front-End Dev | Full-Stack Dev (loading)
+# Daniel Chapell here! 🌌
+### Front-End Dev | Full-Stack Dev (loading)
 
 ```ts
 const name = 'Daniel';
@@ -7,17 +7,17 @@ const name = 'Daniel';
 Developer dev = new Developer(name);
 
 while(dev.isLearning()) {
-dev.keepsCalm();
+dev.listensToMusic(); 
 dev.isCurious();
-dev.getsThingsDone();
+dev.keepsCalm();
 }
 ```
 
-- 👋 Hi, I’m @Danypooh, Daniel de la Torre
-- 👀 I’m interested in getting a job
-- 🌱 I’m currently learning in the Odin Project
-- 💞️ I’m looking to collaborate on a web developers team
-- 📫 How to reach me, email: delatorrechapell@gmail.com
+- 💻 Currently working on [Mindset](https://www.mindsetmx.com/)
+- 📝 I am currently learning Full-Stack Development in [TOP](https://www.theodinproject.com/)
+- 👓 Looking to start my OpenSource journey
+- 🌱 I like to excercise, learn and spent tiem outdoors
+- 📫 You can connect with me on [Twitter](https://twitter.com/ChapellDaniel) and [LinkedIn](www.linkedin.com/in/daniel-de-la-torre-chapell-032032168)
 
 <!---
 Danypooh/Danypooh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
