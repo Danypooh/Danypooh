@@ -1,4 +1,4 @@
-# Daniel Chapell here! 🌌
+<h1 align="center">Daniel Chapell here! 🌌</h1>
 <h3 align="center">Front-End Dev | Full-Stack Dev (loading)</h3>
 
 ```ts
