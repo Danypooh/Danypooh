@@ -13,8 +13,8 @@ dev.keepsCalm();
 }
 ```
 
-- 💻 Currently working on [Mindset](https://www.mindsetmx.com/)
-- 📝 I am currently learning Full-Stack Development in [TOP](https://www.theodinproject.com/)
+- 💻 Currently working as a Freelancer
+- 📝 I am currently learning data driven development
 - 👓 Looking to start my OpenSource journey
 - 🌱 I like to excercise, learn and spent tiem outdoors
 - 📫 You can connect with me on [Twitter](https://twitter.com/ChapellDaniel) and [LinkedIn](https://www.linkedin.com/in/daniel-de-la-torre-chapell-032032168)
