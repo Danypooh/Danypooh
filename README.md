@@ -13,7 +13,7 @@ dev.keepsCalm();
 }
 ```
 
-- 💻 Currently working as a Freelancer
+- 💻 Currently working as a Professor & Freelancer
 - 📝 I am currently learning data driven development
 - 👓 Looking to start my OpenSource journey
 - 🌱 I like to excercise, learn and spent tiem outdoors
